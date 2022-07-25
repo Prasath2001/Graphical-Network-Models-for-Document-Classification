@@ -19,13 +19,13 @@ To install dependencies copy the commands below and paste in your conda prompt t
 
 ## Instructions
 
-- Change all the file paths given in <ins>Preprocessing.ipynb</ins>, <ins>Models/ICA</ins>, <ins>Models/Spectral Clustering</ins> according to your local environment path. 
+- Change all the file paths given in Preprocessing.ipynb, Models/ICA, Models/Spectral Clustering according to your local environment path. 
 
-- Install all the dependencies mentioned above and run all the cells in <ins>Preprocessing/Preprocessing.ipynb</ins>. Running all the cells will generate <ins>**edge_list.csv**</ins> (Contains edge list of graph used to create graph, which is input to the models in Models/ICA and Models/Spectral Clustering), <ins>**class_labels.npy**</ins> (Contains ground-truth of all documents) and <ins>**feature_matrix.npy**</ins> (Contains feature matrix, input to ICA algorithm).
+- Install all the dependencies mentioned above and run all the cells in Preprocessing/Preprocessing.ipynb file. Running all the cells will generate **edge_list.csv** (Contains edge list of graph used to create graph, which is input to the models in Models/ICA and Models/Spectral Clustering),**class_labels.npy**(Contains ground-truth of all documents) and **feature_matrix.npy**(Contains feature matrix, input to ICA algorithm).
 
-- Run all cells in notebooks from <ins>Models/ICA</ins> to obtain the results of Naive Bayes and ICA variants for different data distributions (Only data distribution i.e) random state value differs between ICA_notebook_1, ICA_notebook_2 etc.).
+- Run all cells in notebooks from Models/ICA to obtain the results of Naive Bayes and ICA variants for different data distributions (Only data distribution i.e) random state value differs between ICA_notebook_1, ICA_notebook_2 etc.).
 
-- Run all cells in notebook from <ins>Models/Spectral Clustering</ins> to obtain the results of Spectral Clustering.
+- Run all cells in notebook from Models/Spectral Clustering to obtain the results of Spectral Clustering.
 
 ## Citations
 
