@@ -21,7 +21,7 @@ To install dependencies copy the commands below and paste in your conda prompt t
 
 - Change all the file paths given in `Preprocessing.ipynb`, `Models/ICA`, `Models/Spectral Clustering` according to your local environment path. 
 
-- Install all the dependencies mentioned above and run all the cells in `Preprocessing/Preprocessing.ipynb` file. Running all the cells will generate **`edge_list.csv`** (Contains edge list of graph used to create graph, which is input to the models in `Models/ICA` and `Models/Spectral Clustering`),**`class_labels.npy`**(Contains ground-truth of all documents) and **`feature_matrix.npy`**(Contains feature matrix, input to ICA algorithm).
+- Install all the dependencies mentioned above and run all the cells in `Preprocessing/Preprocessing.ipynb` file. Running all the cells will generate **`edge_list.csv`** (Contains edge list of graph used to create graph, which is input to the ICA and Spectral Clustering models),**`class_labels.npy`**(Contains ground-truth of all documents) and **`feature_matrix.npy`**(Contains feature matrix, input to ICA algorithm).
 
 - Run all cells in notebooks from `Models/ICA` to obtain the results of Naive Bayes and ICA variants for different data distributions (Only data distribution i.e) random state value differs between `ICA_notebook_1`, `ICA_notebook_2` etc.).
 
