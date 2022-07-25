@@ -13,6 +13,8 @@ To install dependencies copy the commands below and paste in your conda prompt t
     pip install clean-text==0.5.0
     pip install csv==1.0
 
+> **Note:** If you are using a Jupyter/Colab notebook, add '!' before every pip install command and run it in a cell. For example, '!pip install clean-text==0.5.0'
+
 ## Contact
 
 For any queries, please contact [prasath.murugesan2001@gmail.com](mailto:prasath.murugesan2001@gmail.com)
