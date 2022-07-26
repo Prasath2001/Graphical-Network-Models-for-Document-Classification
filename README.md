@@ -2,7 +2,7 @@
 
 This code base is a part of **"Collective Classification Models For Data Without Explicit Linkage"** paper, currently under peer-review for CODS-COMAD 2023.
 
-## Overview
+## Overview of Dataset
 
 We used a news articles dataset which had 17601 articles. The categories and their counts are as follows 
 
@@ -12,18 +12,6 @@ We used a news articles dataset which had 17601 articles. The categories and the
 - Sports (3782) 
 
 It is a multi-class prediction problem and the task is to predict the appropriate label for the articles. The feature matrix for this data set is composed of the keywords and phrases extracted from each document through the bag of words methodology. After the removal of stop-words, stemming, and lemmatization, the bag-of-words set contains 2700 keywords and phrases. The feature matrix obtained F is of the dimension 17601 X 2700. This dataset has no information about the hyperlinks between the news articles and an underlying graph of relationships does not exist.
-
-## ICA Variants
-
-Below are the illustration of ICA Variants discussed in the paper.
-
-![](./images/Pic1.jpg)
-![](./images/Pic2.jpg)
-![](./images/Pic3.jpg)
-![](./images/Pic4.jpg)
-![](./images/Pic5.jpg)
-![](./images/Pic6.jpg)
-![](./images/Pic7.jpg)
 
 ## Install Dependencies
 
@@ -49,6 +37,17 @@ To install dependencies copy the commands below and paste in your conda prompt t
 - Run all cells in notebooks from `Models/ICA` to obtain the results of Naive Bayes and ICA variants for different data distributions (Only data distribution i.e) random state value differs between `ICA_notebook_1`, `ICA_notebook_2` etc.).
 
 - Run all cells in notebook from `Models/Spectral Clustering` to obtain the results of Spectral Clustering.
+## ICA Variants
+
+Below are the illustration of ICA Variants discussed in the paper.
+
+![](./images/Pic1.jpg)
+![](./images/Pic2.jpg)
+![](./images/Pic3.jpg)
+![](./images/Pic4.jpg)
+![](./images/Pic5.jpg)
+![](./images/Pic6.jpg)
+![](./images/Pic7.jpg)
 
 ## Resource Specifications
 
