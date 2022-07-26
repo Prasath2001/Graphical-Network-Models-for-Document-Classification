@@ -17,7 +17,7 @@ It is a multi-class prediction problem and the task is to predict the appropriat
 
 Below are the illustration of ICA Variants discussed in the paper.
 
-![](./images/Pic1.jpg){height:100px,width:100px;}
+![](./images/Pic1.jpg)
 ![](./images/Pic2.jpg)
 ![](./images/Pic3.jpg)
 ![](./images/Pic4.jpg)
