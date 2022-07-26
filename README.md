@@ -29,47 +29,45 @@ To install dependencies copy the commands below and paste in your conda prompt t
 
 ## Citations
 
-[1]: François Rousseau, Emmanouil Kiagias, and Michalis Vazirgiannis. 2015. Text Categorization as a
+<a id="1">[1]</a> François Rousseau, Emmanouil Kiagias, and Michalis Vazirgiannis. 2015. Text Categorization as a
 Graph Classification Problem. In Proceedings of the 53rd Annual Meeting of the Association for
 Computational Linguistics and the 7th International Joint Conference on Natural Language
 Processing (Volume 1: Long Papers), pages 1702–1712, Beijing, China. Association for
 Computational Linguistics.
 
-[2]: Noushin Rezapour Asheghi, Katja Markert, and Serge Sharoff. 2014. Semi-supervised Graph-based
+<a id="2">[2]</a> Noushin Rezapour Asheghi, Katja Markert, and Serge Sharoff. 2014. Semi-supervised Graph-based
 Genre Classification for Web Pages. In Proceedings of TextGraphs-9: the workshop on Graph-based
 Methods for Natural Language Processing, pages 39–47, Doha, Qatar. Association for
 Computational Linguistics.
 
-[3]: Perozzi, B., Al-Rfou, R. & Skiena, S. (2014) Deepwalk: online learning of social representations.
+<a id="3">[3]</a> Perozzi, B., Al-Rfou, R. & Skiena, S. (2014) Deepwalk: online learning of social representations.
 International Conference on Knowledge Discovery and Data Mining. New York, NY, USA:
 Association for Computing Machinery.
 
-[4]: Namata, Galileo & Kok, Stanley & Getoor, Lise. (2011). Collective Graph Identification. Proceedings
+<a id="4">[4]</a> Namata, Galileo & Kok, Stanley & Getoor, Lise. (2011). Collective Graph Identification. Proceedings
 of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. 10. 87-95.
 10.1145/2020408.2020429.
 
-[5]: Namata, Galileo & Kok, Stanley & Getoor, Lise. (2011). Collective Graph Identification. Proceedings
+<a id="5">[5]</a> Namata, Galileo & Kok, Stanley & Getoor, Lise. (2011). Collective Graph Identification. Proceedings
 of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. 10. 87-95.
 10.1145/2020408.2020429.
 
-[6]: Mahmood, Arif & Mian, Ajmal & Owens, Robyn. (2014). Semi-supervised Spectral Clustering for
+<a id="6">[6]</a> Mahmood, Arif & Mian, Ajmal & Owens, Robyn. (2014). Semi-supervised Spectral Clustering for
 Image Set Classification. Proceedings of the IEEE Computer Society Conference on Computer
 Vision and Pattern Recognition. 10.1109/CVPR.2014.23.
 
-[7]: Li, Jia & Rong, Yu & Cheng, Hong & Meng, Helen & Huang, Wenbing & Huang, Junzhou. (2019).
+<a id="7">[7]</a> Li, Jia & Rong, Yu & Cheng, Hong & Meng, Helen & Huang, Wenbing & Huang, Junzhou. (2019).
 Semi-Supervised Graph Classification: A Hierarchical Graph Perspective ACM Reference Format.
 10.1145/3308558.3313461.
 
-[8]: Narayanan, Annamalai & Mahinthan, Chandramohan & Venkatesan, Rajasekar & Chen, Lihui & Liu,
+<a id="8">[8]</a> Narayanan, Annamalai & Mahinthan, Chandramohan & Venkatesan, Rajasekar & Chen, Lihui & Liu,
 Yang & Jaiswal, Shantanu. (2017). graph2vec: Learning Distributed Representations of Graphs.
 
-[9]: F. Lin and W. Cohen. Semi-supervised classification of network data using very few labels. In
+<a id="9">[9]</a> F. Lin and W. Cohen. Semi-supervised classification of network data using very few labels. In
 Advances in Social Networks Analysis and Mining (ASONAM), 2010 International Conference on,
 pages 192–199, Aug 2010.
 
-[10]:  http://groups.di.unipi.it/~gulli/AG_corpus_of_news_articles.html - AG Corpus News Articles Dataset
-
-[11]: https://github.com/Prasath2001/Graphical-Network-Models-for-Document-Classification - Code Base
+<a id="10">[10]</a>  http://groups.di.unipi.it/~gulli/AG_corpus_of_news_articles.html - AG Corpus News Articles Dataset.
 
 ## Contact
 
