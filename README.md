@@ -17,13 +17,13 @@ It is a multi-class prediction problem and the task is to predict the appropriat
 
 Below are the illustration of ICA Variants discussed in the paper.
 
-![Pic1](.\images\Pic1.jpg)
-![](images\Pic2.jpg)
-![](images\Pic3.jpg)
-![](images\Pic4.jpg)
-![](images\Pic5.jpg)
-![](images\Pic6.jpg)
-![](images\Pic7.jpg)
+![](./images/Pic1.jpg)
+![](./images/Pic2.jpg)
+![](./images/Pic3.jpg)
+![](./images/Pic4.jpg)
+![](./images/Pic5.jpg)
+![](./images/Pic6.jpg)
+![](./images/Pic7.jpg)
 
 ## Install Dependencies
 
