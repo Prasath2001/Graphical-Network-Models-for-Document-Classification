@@ -64,6 +64,6 @@ Thanks to [Praveen S](https://github.com/prvn-codes) for his illustrations.
 
 ## Contact
 
-For any queries, reach out to [prasath.murugesan2001@gmail.com](mailto:prasath.murugesan2001@gmail.com) & [shamtcs@gmail.com](mailto:shamtcs@gmail.com).
+If you have any issues, reach out to [prasath.murugesan2001@gmail.com](mailto:prasath.murugesan2001@gmail.com) & [shamtcs@gmail.com](mailto:shamtcs@gmail.com).
 
 
