@@ -11,7 +11,7 @@ We used a news articles dataset which had 17601 articles. The categories and the
 - Science/Technology (5143) 
 - Sports (3782) 
 
-It is a multi-class prediction problem and the task is to predict the appropriate label for the articles. The feature matrix for this data set is composed of the keywords and phrases extracted from each document through the bag of words methodology. After the removal of stop-words, stemming, and lemmatization, the bag-of-words set contains 2700 keywords and phrases. The feature matrix obtained F is of the dimension 17601 X 2700. This dataset has no information about the hyperlinks between the news articles and an underlying graph of relationships does not exist.
+It is a multi-class prediction problem and the task is to predict the appropriate label for the articles. The feature matrix for this data set is composed of the keywords and phrases extracted from each document through the bag of words methodology. After the removal of stop-words, stemming, and lemmatization, the bag-of-words set contains 3700 keywords and phrases. The feature matrix obtained F is of the dimension 17601 X 3700. This dataset has no information about the hyperlinks between the news articles and an underlying graph of relationships does not exist.
 
 ## Install Dependencies
 
