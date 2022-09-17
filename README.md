@@ -1,6 +1,6 @@
 # Collective Classification Models For Data Without Explicit Linkage
 
-This code base is a part of **"Collective Classification Models For Data Without Explicit Linkage"** paper, currently under peer-review for CODS-COMAD 2023.
+This code base is a part of **"Collective Classification Models For Data Without Explicit Linkage"** paper, currently under peer-review for LOG Conference 2022.
 
 ## Overview of Dataset
 
@@ -57,13 +57,3 @@ Below are the illustration of ICA Variants discussed in the paper.
 | CPU      | Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz   2.21 GHz |
 | System type | 64-bit operating system, x64-based processor |
 | OS       | Windows 11 21H2    |    
-
-## Acknowledgements
-
-Thanks to [Praveen S](https://github.com/prvn-codes) for his illustrations.
-
-## Contact
-
-If you have any issues, reach out to [prasath.murugesan2001@gmail.com](mailto:prasath.murugesan2001@gmail.com) & [shamtcs@gmail.com](mailto:shamtcs@gmail.com).
-
-
